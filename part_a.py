@@ -10,8 +10,11 @@
 # forexample def subtract_numbers(8,2), result = 8-2 
 
 # 4.What is the output of this code?
-# def test(a, b=2): return a * b print(test(3))
-# a=3, returns 3 * 2 = 6
+def test(a, b=2):
+     return a * b 
+print(test(3))
+ 
+# output = 6
 
 
 
